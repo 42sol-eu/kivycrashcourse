@@ -12,15 +12,15 @@ Videos
 
 You can find a youtube playlist with all the Kivy Crash Course videos at https://www.youtube.com/playlist?list=SPdNh1e1kmiPP4YApJm8ENK2yMlwF1_edq, or the individual videos are at:
 
-- Video 1: Making a simple app - https://www.youtube.com/watch?v=F7UKmK9eQLY
-- Video 2: Building an android apk - https://www.youtube.com/watch?v=t8N_8WkALdE
-- Video 3: More interesting widget interactions - https://www.youtube.com/watch?v=-NvpKDReKyg
-- Video 4: Kivy language - https://www.youtube.com/watch?v=ZVWAKzR63ig
-- Video 5: Mixing python and kivy language - https://www.youtube.com/watch?v=ZmteLworB4E
-- Video 6: Kivy properties - https://www.youtube.com/watch?v=OkW-1uzP5Og
-- Video 7: Drawing on the canvas - https://www.youtube.com/watch?v=1d709erhpdQ
-- Video 8: Let's fix some bugs - https://www.youtube.com/watch?v=2Gc8iYJQ_qk
-- Video 9: Creating a scrollable label - https://www.youtube.com/watch?v=WdcUg_rX2fM
+- Video 01: Making a simple app - https://www.youtube.com/watch?v=F7UKmK9eQLY
+- Video 02: Building an android apk - https://www.youtube.com/watch?v=t8N_8WkALdE
+- Video 03: More interesting widget interactions - https://www.youtube.com/watch?v=-NvpKDReKyg
+- Video 04: Kivy language - https://www.youtube.com/watch?v=ZVWAKzR63ig
+- Video 05: Mixing python and kivy language - https://www.youtube.com/watch?v=ZmteLworB4E
+- Video 06: Kivy properties - https://www.youtube.com/watch?v=OkW-1uzP5Og
+- Video 07: Drawing on the canvas - https://www.youtube.com/watch?v=1d709erhpdQ
+- Video 08: Let's fix some bugs - https://www.youtube.com/watch?v=2Gc8iYJQ_qk
+- Video 09: Creating a scrollable label - https://www.youtube.com/watch?v=WdcUg_rX2fM
 - Video 10: Thinking about layouts - https://www.youtube.com/watch?v=0n8Rar3CgdI
 - Video 11: Animation and the Clock - https://www.youtube.com/watch?v=ChmfVOu9aIc&feature=youtu.be
 - Video 12: Using Android APIs - https://www.youtube.com/watch?v=8Jwp1PTvECI&feature=youtu.be
