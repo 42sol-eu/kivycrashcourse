@@ -49,6 +49,7 @@ Details
  Video 12: Using Android APIs                    https://www.youtube.com/watch?v=8Jwp1PTvECI&feature=youtu.be
  Video 13: Using Kivy's settings panel           https://www.youtube.com/watch?v=oQdGWeN51EE
  Video 14: Using a ScreenManager                 https://www.youtube.com/watch?v=xx-NLOg6x8o
+ ========= ===================================== =============================================
 
 
 Plans
